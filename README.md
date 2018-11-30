@@ -1,2 +1,1 @@
-# team
-team repository
+This file represents my project
